@@ -1,0 +1,1 @@
+﻿"D1@Sketch1"= "Pin Shaft Diameter" + 0.375' The pin head diameter is .375 inches bigger than the pin shaft diameter
